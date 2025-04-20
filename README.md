@@ -26,30 +26,36 @@ Open terminal and try execute some kali linux commands
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
-![Screenshot 2024-11-02 114302](https://github.com/user-attachments/assets/6818fcdc-ac12-4cb6-b5d3-bff31ddd8bc6)
+![Screenshot 2025-04-20 191957](https://github.com/user-attachments/assets/bb9086b6-6850-413f-ac45-5d416dff2d67)
+
 
 sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:
 
 It displays the following menu and select 2 for Website Attack Vectors:
-![Screenshot 2024-11-02 114509](https://github.com/user-attachments/assets/c765fde1-efbb-40cb-822d-97fe00f0c3c9)
+![Screenshot 2025-04-20 192023](https://github.com/user-attachments/assets/72394cf5-e03c-4b08-8137-ce0e5ad67c3e)
+
 
 The website Attack Vectors displays the following menu. In this menu3 for Credential Harvester Attack Method is selected:
 
-![Screenshot 2024-11-02 114636](https://github.com/user-attachments/assets/b839bbfb-4304-4b89-a24f-7e3c7b5f37a0)
+![Screenshot 2025-04-20 192046](https://github.com/user-attachments/assets/7f4c074c-f909-47c5-963f-2b007fe3b84c)
+
 
 
 The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
 
-![Screenshot 2024-11-02 114659](https://github.com/user-attachments/assets/86dbb68b-49d9-4d2c-b604-f7109b26f5e4)
+![Screenshot 2025-04-20 192133](https://github.com/user-attachments/assets/0566b0fc-dce5-47a8-9c79-c90584f84b3b)
+
 
 
 It shows the following screen in which the ip address of the attacker need to be given which is the default value:
 
-![Screenshot 2024-11-02 114752](https://github.com/user-attachments/assets/ed293357-6151-4006-ba8a-3b6bea0a6fd8)
+![Screenshot 2025-04-20 192154](https://github.com/user-attachments/assets/8ec74a23-89b9-4ebe-a05c-32400a85c437)
+
 
 It shows the following screen in which the option Google can be selected:
 
-![Screenshot 2024-11-02 114817](https://github.com/user-attachments/assets/02a15720-822d-4ca4-82b0-8026efb0a06e)
+![Screenshot 2025-04-20 192223](https://github.com/user-attachments/assets/4afff78b-2e87-42a2-be96-7e71769ca2a0)
+
 
 
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
